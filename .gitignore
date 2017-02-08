@@ -35,3 +35,6 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# Module specific files that shouldn't be pushed
+.python_venv_config.json
